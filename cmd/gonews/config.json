@@ -1,0 +1,16 @@
+{
+   "rss":[
+      "https://www.playground.ru/rss/news.xml",
+      "https://habr.com/ru/rss/best/daily/?fl=ru",
+      "https://www.goha.ru/rss/mmorpg"
+   ],
+   "request_period": 5,
+   "db": {
+      "host": "localhost",
+      "user": "postgres",
+      "password": "admin",
+      "dbname": "postgres",
+      "port": 5432,
+      "sslmode": "disable"
+  }
+}
